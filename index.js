@@ -65,6 +65,7 @@ var answerFive = "b";
 play(questionFive, answerFive)
 
 
+
 //printing final score
 console.log("\nYour Final Score is: " + score)
 if (score === 5){
